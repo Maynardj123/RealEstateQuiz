@@ -29,3 +29,13 @@ li a:hover {
 .active {
     background-color: orange;
 }
+
+
+.form {
+    background-color:white ;
+    margin: auto;
+    height: 800px;
+    max-width: 80%;
+    opacity: 90%;
+    
+}
